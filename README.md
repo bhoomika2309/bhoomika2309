@@ -8,10 +8,10 @@ I enjoy building practical software applications using Artificial Intelligence, 
 
 ## About Me
 
-- Pursuing a Master of Computer Applications (MCA) at PES University, Bengaluru.
-- Interested in Software Development, Machine Learning, Big Data, and Cybersecurity.
-- Currently exploring distributed data processing with Apache Kafka, Apache Spark (PySpark), Apache Hadoop, and Apache Flink.
-- Always eager to learn new technologies and build meaningful software projects.
+- 🎓 Pursuing a Master of Computer Applications (MCA) at PES University, Bengaluru.
+- 💻 Interested in Software Development, Machine Learning, Big Data, and Cybersecurity.
+- 🌱 Currently exploring distributed data processing using Apache Kafka, Apache Spark (PySpark), Apache Hadoop, and Apache Flink.
+- 🚀 Always eager to learn new technologies and build meaningful software projects.
 
 ---
 
@@ -34,25 +34,27 @@ Python • Flask • Pandas • NumPy • scikit-learn
 
 **Live Demo**
 
-https://cropcast-kt44.onrender.com/
+[CropCast Live Demo](https://cropcast-kt44.onrender.com/)
 
 **Repository**
 
-https://github.com/bhoomika2309/CropCast
+[CropCast Repository](https://github.com/bhoomika2309/CropCast)
 
 ---
 
 ### Security Control Drift & Misconfiguration Detection
 
-Developed during the 48-hour Société Générale Cybersecurity Hackathon as part of a two-member team.
+Developed during the **48-hour Société Générale Cybersecurity Hackathon** as part of a **two-member team**.
 
-The project focuses on identifying security configuration drift, detecting misconfigurations, and improving enterprise security compliance through automated analysis.
+This project is a prototype that focuses on identifying security control drift, detecting configuration misconfigurations, and improving enterprise security compliance through automated analysis.
 
 **Tech Stack**
 
 Python • Machine Learning • Cybersecurity
 
-Repository will be added soon.
+**Repository**
+
+[Security Control Drift Detection](https://github.com/bhoomika2309/security-control-drift-detection)
 
 ---
 
