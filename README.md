@@ -1,52 +1,92 @@
-# Hello, I'm Bhoomika
+# Hello, I'm Bhoomika 👋
 
 ### MCA Student @ PES University
 
-Passionate about building software, AI, and data-driven solutions.
-
-Currently building practical software solutions while continuously learning new technologies.
----
-
-##  About Me
-
--  MCA Student at **PES University**, Bengaluru
--  Currently learning **Big Data Technologies** and building Machine Learning applications
--  Interested in **Software Development, Artificial Intelligence, Big Data, and Cybersecurity**
--  Passionate about developing practical, data-driven solutions for real-world problems
+I enjoy building practical software applications using Artificial Intelligence, Machine Learning, Big Data, and Software Development. My goal is to create solutions that solve real-world problems while continuously expanding my technical knowledge.
 
 ---
 
-##  Tech Stack
+## About Me
 
-**Programming Languages**
+- Pursuing a Master of Computer Applications (MCA) at PES University, Bengaluru.
+- Interested in Software Development, Machine Learning, Big Data, and Cybersecurity.
+- Currently exploring distributed data processing with Apache Kafka, Apache Spark (PySpark), Apache Hadoop, and Apache Flink.
+- Always eager to learn new technologies and build meaningful software projects.
+
+---
+
+## Featured Projects
+
+### CropCast – Smart Crop Yield Prediction & Climate Risk Analysis System
+
+An end-to-end machine learning web application developed to predict crop yield using agricultural production and rainfall datasets.
+
+**Highlights**
+
+- Machine learning-based crop yield prediction
+- Data preprocessing and feature engineering
+- Interactive Flask web application
+- Live deployment using Render
+
+**Tech Stack**
+
+Python • Flask • Pandas • NumPy • scikit-learn
+
+**Live Demo**
+
+https://cropcast-kt44.onrender.com/
+
+**Repository**
+
+https://github.com/bhoomika2309/CropCast
+
+---
+
+### Security Control Drift & Misconfiguration Detection
+
+Developed during the 48-hour Société Générale Cybersecurity Hackathon as part of a two-member team.
+
+The project focuses on identifying security configuration drift, detecting misconfigurations, and improving enterprise security compliance through automated analysis.
+
+**Tech Stack**
+
+Python • Machine Learning • Cybersecurity
+
+Repository will be added soon.
+
+---
+
+## Technical Skills
+
+### Programming Languages
 
 - Python
 - Java
 - C
 - SQL
 
-**Machine Learning & Data Science**
+### Machine Learning & Data Science
 
 - Machine Learning
 - Pandas
 - NumPy
-- scikit-learn
 - Matplotlib
+- scikit-learn
 
-**Big Data**
+### Big Data
 
 - Apache Kafka
 - Apache Spark (PySpark)
 - Apache Hadoop
 - Apache Flink
 
-**Web Development**
+### Web Development
 
 - Flask
 - HTML
 - CSS
 
-**Developer Tools**
+### Developer Tools
 
 - Git
 - GitHub
@@ -55,22 +95,26 @@ Currently building practical software solutions while continuously learning new 
 
 ---
 
-## Featured Projects
+## Currently Learning
 
-### CropCast – Smart Crop Yield Prediction & Climate Risk Analysis System
-
-An end-to-end machine learning web application that predicts crop yield using agricultural production and rainfall datasets.
-
-**Tech Stack:** Python, Flask, Pandas, NumPy, scikit-learn
-
-🔗 Live Demo: https://cropcast-kt44.onrender.com/
-
-🔗 Repository: https://github.com/bhoomika2309/CropCast
+- Distributed Data Processing
+- Apache Spark
+- Apache Flink
+- Natural Language Processing
+- Deep Learning
 
 ---
 
-### Security Control Drift & Misconfiguration Detection *(Coming Soon)*
+## Connect
 
-Developed during the 48-hour Société Générale Cybersecurity Hackathon as part of a two-member team. The project focuses on identifying security control drift, detecting misconfigurations, and improving enterprise security compliance.
+**LinkedIn**
 
-**Tech Stack:** Python, Machine Learning, Cybersecurity
+https://www.linkedin.com/in/bhoomika-a169a12a4
+
+**GitHub**
+
+https://github.com/bhoomika2309
+
+**Email**
+
+bhoomikaa2309@gmail.com
