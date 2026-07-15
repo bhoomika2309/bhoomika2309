@@ -1,7 +1,7 @@
-# Hello, I'm Bhoomika 👋
+# Hello, I'm Bhoomika
 
 ### MCA Student @ PES University
 
-💻 Passionate about Software Development, Machine Learning and Big Data.
+Passionate about building software, AI, and data-driven solutions.
 
-🌱 Currently building practical software solutions while continuously learning new technologies.
+Currently building practical software solutions while continuously learning new technologies.
